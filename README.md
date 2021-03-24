@@ -1,5 +1,6 @@
 # Vixen-Motor-Focus
 Motor focuser system for Vixen 2.7" Focuser
+3d files, Arduino C++ code, Schematic and reference images included in this repository.
 
 
 Motor focuser system for Vixen 2.7" Focuser using easily available and 3d printed components.
@@ -65,3 +66,6 @@ I used rubber washers to mount the motor to the bracket to soak up any vibration
 3D printed handset, top in 15% carbon fibre and bottom in a softer more flexible material.
 
  
+
+
+In terms of licensing, Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), as I'm happy for people to redistribute it, so long as they credit myself. 
